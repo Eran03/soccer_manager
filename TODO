@@ -1,0 +1,6 @@
+1. TEAMS: FIX delete all foreign keys
+    all players associated with that team,
+    the fixures that the team has played in,
+    as well as the player fixtures
+
+2. ALL PAGES: FIX form drop downs listing same item twice when editing
